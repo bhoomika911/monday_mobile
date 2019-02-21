@@ -1,0 +1,7 @@
+const ACTION_TYPES = {
+  GET_MOVIE_LIST: "GET_MOVIE_LIST",
+  CLEAR_MOVIE_LIST: "CLEAR_MOVIE_LIST",
+
+};
+
+export default ACTION_TYPES;
